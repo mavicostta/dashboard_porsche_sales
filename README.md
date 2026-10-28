@@ -2,7 +2,7 @@
 
 An interactive HTML dashboard, built with AI assistance, that transforms a dataset of 100 Porsche vehicle sales into actionable business insights. It addresses key business questions such as top-selling models, regional performance, model year distribution, and preferred payment methods.
 
-**Live Dashboard:** https://github.io
+**Live Dashboard:** https://mavicostta.github.io/dashboard_porsche_sales/
 
 | Item | Details |
 |---|---|
